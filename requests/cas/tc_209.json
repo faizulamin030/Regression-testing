@@ -1,0 +1,9 @@
+{
+  "memberid": "UNKNOWNBIC0000000000000",
+  "iban": "${TITLE_FETCH_WITH_PAYMENT_IBAN}",
+  "idType": "CNIC",
+  "idValue": "3520112345671",
+  "amount": 15420.2,
+  "rrn": "${RRN}",
+  "stan": "${STAN}"
+}

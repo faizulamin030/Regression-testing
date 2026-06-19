@@ -1,0 +1,4 @@
+html_report:
+  hide_sensitive_data: false
+  show_failure_analysis: true
+  show_details: true

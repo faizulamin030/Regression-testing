@@ -1,0 +1,7 @@
+{
+  "rrn": "${RRN}",
+  "stan": "${STAN}",
+  "type": "EMAIL",
+  "value": "payee@example.com",
+  "amount": 0
+}

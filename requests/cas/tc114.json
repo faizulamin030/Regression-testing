@@ -1,0 +1,40 @@
+{
+  "rrn": "${RRN}",
+  "stan": "${STAN}",
+  "uid": {
+    "type": "CNIC",
+    "value": "${CNIC_9}"
+  },
+  "documentType": "CNIC",
+  "documentNumber": "${CNIC_9}",
+  "name": "faizulamin",
+  "surname": "faizulamin",
+  "gender": "MALE",
+  "birthDate": "2002-06-08",
+  "startDate": "",
+  "expirationDate": "2030-06-08",
+  "aliases": [
+    {
+      "type": "EMAIL",
+      "value": "faizulamin@example.com",
+      "status": "active",
+      "startDate": "2026-06-08",
+      "expirationDate": "2030-06-08",
+      "accounts": [
+        {
+          "id": {
+            "iban": "PK50DUIB0000${RRN}"
+          },
+          "currency": "PKR",
+          "isDefault": true,
+          "type": "",
+          "servicer": {
+            "memberId": "DUIBPKKA"
+          },
+          "openingDate": "",
+          "closingDate": ""
+        }
+      ]
+    }
+  ]
+}

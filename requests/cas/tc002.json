@@ -1,0 +1,17 @@
+{
+  "rrn": "${RRN}",
+  "stan": "${STAN}",
+  "sender_iban": "${SENDER_IBAN}",
+  "sender_idtype": "CNIC",
+  "sender_idvalue": "4240173165763",
+  "sender_name": "MOHAMMAD FAYYAZ",
+  "receiver_iban": "${RECEIVER_IBAN}",
+  "receiver_name": "Imran",
+  "amount": 150,
+  "fee": 0,
+  "receiver_participant_code": "ABPAPKKA",
+  "transaction_date": "${DATE}",
+  "transaction_time": "${TIME}",
+  "narration": "P2P",
+  "payment_purpose": "027"
+}

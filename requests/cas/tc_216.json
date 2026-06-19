@@ -1,0 +1,7 @@
+{
+  "rrn": "${RRN}",
+  "stan": "${STAN}",
+  "type": "TXT",
+  "value": "payee.alias",
+  "amount": 0
+}

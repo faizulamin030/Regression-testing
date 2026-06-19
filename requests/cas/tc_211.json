@@ -1,0 +1,15 @@
+{
+  "header": {
+    "Authorization": null
+  },
+  "body": {
+    "memberid": "{$BIC_CODE}",
+    "iban": "{$TITLE_FETCH_WITH_PAYMENT_IBAN}",
+    "idType": "CNIC",
+    "idValue": "3520112345671",
+    "amount": 15420.2,
+    "rrn": "{$RRN}",
+    "stan": "{$STAN}"
+  },
+  "_note": "Authorization header intentionally omitted to validate HTTP 401 Unauthorized"
+}

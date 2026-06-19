@@ -1,0 +1,9 @@
+{
+  "memberid": "${BIC_CODE}",
+  "iban": "PK99SONE0009999999999999",
+  "idType": "CNIC",
+  "idValue": "3520112345671",
+  "amount": 15420.2,
+  "rrn": "${RRN}",
+  "stan": "${STAN}"
+}

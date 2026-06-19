@@ -1,0 +1,16 @@
+{
+  "rrn": "${RRN}",
+  "stan": "${STAN}",
+  "uid": {
+    "type": "CNIC",
+    "value": "${CNIC_2}"
+  },
+  "documentType": "CNIC",
+  "documentNumber": "${CNIC_2}",
+  "name": "faizulamin",
+  "surname": "faizulamin",
+  "gender": "MALE",
+  "birthDate": "2002-06-08",
+  "startDate": "",
+  "expirationDate": "2030-06-08"
+}

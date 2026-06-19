@@ -1,0 +1,17 @@
+{
+  "rrn": "${RRN}",
+  "stan": "${STAN}",
+  "sender_iban": "PK80DUIB0000000094216001",
+  "sender_idtype": "NICOP",
+  "sender_idvalue": "4240173165763",
+  "sender_name": "MOHAMMAD FAYYAZ",
+  "receiver_iban": "${TITLE_FETCH_WITH_PAYMENT_IBAN}",
+  "receiver_name": "${RECEIVER_NAME}",
+  "amount": 5,
+  "fee": 0,
+  "receiver_participant_code": "${BIC_CODE}",
+  "transaction_date": "${DATE}",
+  "transaction_time": "${TIME}",
+  "narration": "P2P",
+  "payment_purpose": "027"
+}

@@ -1,0 +1,15 @@
+{
+  "rrn": "${RRN}",
+  "stan": "${STAN}",
+  "uid": {
+    "type": "CNIC",
+    "value": "${CNIC}"
+  },
+  "type": "MOBILE",
+  "value": "${MOBILE}",
+  "iban": "${IBAN}",
+  "isDefault": true,
+  "servicer": {
+    "memberId": "DUIBPKKA"
+  }
+}

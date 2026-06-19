@@ -1,0 +1,6 @@
+{
+  "rrn": "${RRN}",
+  "stan": "${STAN}",
+  "aliasType": "MOBILE",
+  "aliasValue": "${MOBILE}"
+}

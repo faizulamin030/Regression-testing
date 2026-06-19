@@ -1,0 +1,8 @@
+{
+  "memberid": "${BIC_CODE}",
+  "idType": "CNIC",
+  "idValue": "3520112345671",
+  "amount": 15420.2,
+  "rrn": "${RRN}",
+  "stan": "${STAN}"
+}
